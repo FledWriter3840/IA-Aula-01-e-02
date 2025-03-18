@@ -1,2 +1,2 @@
-# IA-Aula-01-e-02
+# IA-Aulas
 Códigos feitos nas aulas sobre Inteligência Artificial.
